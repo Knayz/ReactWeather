@@ -1,0 +1,18 @@
+{
+  "maxerr" : 25,
+  "latedef" : "nofunc",
+  "browser" : true,
+  "node" : true,
+  "globals" : ["$", "Prism", "describe", "it", "before", "after", "beforeEach", "afterEach"],
+  "indent" : 2,
+  "camelcase" : true,
+  "newcap" : true,
+  "undef" : true,
+  "multistr" : true,
+  "esnext" : true,
+  "noyield" : true,
+  "devel" : true,
+  "-W004" : true,
+  "-W030" : true,
+  "-W078" : true
+}
